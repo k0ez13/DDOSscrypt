@@ -4,7 +4,7 @@
 # python 3.3.2+ C0ALA DOS V.1
 # by Coala
 
-
+//randomLMAO SO TO AQUI PRA TESTAR ESSA FUCKING SHIT
 
 from queue import Queue
 from optparse import OptionParser
@@ -75,11 +75,11 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	Coala Dos v.1 
+	print (''' \033[92m	Coala Dos v.1
 	Nao me responsabilizo por erros cometidos com o meu script.
 	Usando meu script seu ip fica visivel. \n
 	usage : python3 hammer.py [-s] [-p] [-t]
-	-h : Ajuda 
+	-h : Ajuda
 	-s : server ip
 	-p : port padrao 80
 	-t : turbo padrao 135 \033[0m''')
